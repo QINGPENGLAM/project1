@@ -1,0 +1,21 @@
+L
+2
+4
+// Level dimensions
+// Starting position
+(0,0,0,S)
+
+// Hangar position
+(1,3,3,H)
+
+// Walls
+(0,1,1,#)
+(0,1,2,#)
+(0,2,1,#)
+
+// Elevators
+(0,2,2,E)
+(1,2,2,E)
+
+// Empty lines and comments should be ignored
+

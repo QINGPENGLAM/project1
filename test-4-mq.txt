@@ -1,0 +1,16 @@
+M
+3
+3
+// Three levels, 3x3 grid
+// Level 0
+S..
+.#E
+.#.
+// Level 1
+..E
+.#.
+..H
+// Level 2
+.#.
+.#E
+.##

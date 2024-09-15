@@ -1,0 +1,14 @@
+M
+2
+4
+// Two levels, 4x4 grid each
+// Level 0
+S..H
+.#..
+..E.
+##..
+// Level 1
+...#
+..#.
+..E.
+####
